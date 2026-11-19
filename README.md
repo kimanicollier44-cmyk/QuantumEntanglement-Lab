@@ -1,4 +1,4 @@
-![QuantumEntanglement-Lab cover](assets/cover.png)
+![QuantumEntanglement-Lab cover](QuantumEntanglement-Lab%20cover.png)
 
 # QuantumEntanglement-Lab 🔗⚛️
 
